@@ -38,6 +38,7 @@
      - at least one jump that needs the tuning you chose in Hole 1
    Assignment: Part 2, Hole 4.                                             */
 
+// AI tools helped draft the Challenge 1–4 map and entity changes.
 const START_LEVEL = 1;
 
 
